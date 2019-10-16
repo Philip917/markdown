@@ -2,7 +2,9 @@
   "name": "markdown-previewer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Philip917.github.io/markdown/",
   "dependencies": {
+    "marked": "^0.7.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0"
